@@ -1,5 +1,7 @@
 # functionDrawingTool
-a small tool developed using Qt5.11.1 to draw the images of functions and parametic equations
+a small tool developed to draw the images of functions and parametic equations
+
+version of Qt : 5.11.1
 
 Here are some examples
 
